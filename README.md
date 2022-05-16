@@ -28,11 +28,11 @@ https://tiger-dsmovie.netlify.app/
 - Postgresql
 
 ### Frontend
--Java Script
--React
--HTML
--CSS
--Bootstrap
+- Java Script
+- React
+- HTML
+- CSS
+- Bootstrap
 
 ### Implantação
 - Backend: Heroku
