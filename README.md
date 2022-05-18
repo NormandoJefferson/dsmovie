@@ -6,6 +6,8 @@ listados, sendo necessário, para isso, o prévio cadastro do usuário através 
 
 ## Site da aplicação
 https://tiger-dsmovie.netlify.app/
+ <br/>
+OBS: Aplicações web hospedadas gratuitamente no Heroku entram em estado de dormência quando não são acessadas por um período de 30 min, portanto o site pode levar um certo tempo para responder no seu primeiro acesso. 
 
 ## Layout
 <div>
